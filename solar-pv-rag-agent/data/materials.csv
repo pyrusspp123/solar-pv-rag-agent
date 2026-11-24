@@ -1,0 +1,8 @@
+name,formula,type,bandgap_ev,efficiency_pct,stability,notes
+甲胺铅碘钙钛矿,MAPbI3,perovskite,1.55,25.7,中,易受湿热分解，需封装
+甲脒铅碘钙钛矿,FAPbI3,perovskite,1.48,26.1,中,存在相稳定性问题
+全无机钙钛矿,CsPbI3,perovskite,1.73,21.0,较高,热稳定性优于有机-无机杂化
+晶体硅,c-Si,silicon,1.12,26.8,高,当前商用主流
+碲化镉,CdTe,thin-film,1.45,22.1,高,低成本薄膜路线
+铜铟镓硒,CIGS,thin-film,1.10,23.4,高,带隙可调
+砷化镓,GaAs,III-V,1.42,29.1,高,高效率但成本高

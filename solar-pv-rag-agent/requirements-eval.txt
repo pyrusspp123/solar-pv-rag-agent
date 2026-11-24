@@ -1,0 +1,6 @@
+# 评测依赖（在 requirements.txt 基础上增加 RAGAS）
+-r requirements.txt
+
+ragas>=0.2,<0.3
+datasets>=2.18
+pandas>=2.0

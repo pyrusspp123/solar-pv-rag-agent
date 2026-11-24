@@ -1,0 +1,17 @@
+# ============================================================
+# 核心依赖（建议 Python 3.10 / 3.11）
+# ============================================================
+langchain>=0.2,<0.3
+langchain-community>=0.2,<0.3
+langchain-openai>=0.1,<0.2
+langchain-text-splitters>=0.2,<0.3
+langchain-core>=0.2,<0.3
+
+faiss-cpu>=1.8
+sentence-transformers>=2.7
+rank-bm25>=0.2.2
+pypdf>=4.0
+jieba>=0.42
+
+python-dotenv>=1.0
+pyyaml>=6.0
